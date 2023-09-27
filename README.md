@@ -1,10 +1,8 @@
 <h1 align="center">Site - Docker</h1>
 
-<p> Site criado para a disciplina de Redes de Computadores.</p>
+<p> Este é um repositório Docker que contém as informações necessárias para trabalhar com o Docker para iniciantes. Projeto criado para a disciclina de Redes de Computadores. </p>
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [HTML](https://www.w3schools.com/ ) - Utilizado para odesenvolvimento frontend.
 * [CSS](https://www.w3schools.com/ ) - Utilizado para estilizar o código.
