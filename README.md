@@ -6,7 +6,7 @@
 
 * [HTML](https://www.w3schools.com/ ) - Utilizado para odesenvolvimento frontend.
 * [CSS](https://www.w3schools.com/ ) - Utilizado para estilizar o código.
-* [JAVASCRIPT] (https://www.w3schools.com/ ) - Utilizado para dar uma dinâmica ao código.
+* [JAVASCRIPT](https://www.w3schools.com/ ) - Utilizado para dar uma dinâmica ao código.
 
 ## ✅ Status do Projeto
 > :construction: Projeto concluído :construction:
